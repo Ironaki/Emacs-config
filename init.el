@@ -49,7 +49,7 @@
 (add-to-list 'custom-theme-load-path "~/.emacs.d/lisp/theme")
 (if (display-graphic-p) (load-theme 'solarized t))
 
-2(require 'evil)
+(require 'evil)
 (require 'init-smex)
 (when (not (display-graphic-p))
   (require 'init-term-mouse))
@@ -74,7 +74,7 @@
 (setq elpy-rpc-python-command "/Users/Armstrong/anaconda/bin/python")
 (add-hook 'python-mode-hook
   (lambda ()
-    (setq python-indent 8)))
+    (setq python-indent 4)))
 
 ;; Company mode set key
 ;(with-eval-after-load 'company
