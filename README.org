@@ -1,1 +1,13 @@
 * My Emacs Configuration
+
+[[file:./emacs-logo/Emacs-Dragon.org]]
+
+** Reference
+
++ [[https://github.com/redguardtoo/mastering-emacs-in-one-year-guide][Master Emacs in One Year]]
+
+** Todo and Issues
+
+- [+] org mint
+- [!] M-x which pdflatex Error
+
