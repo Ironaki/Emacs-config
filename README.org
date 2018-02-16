@@ -1,3 +1,5 @@
+#+ATTR_HTML: width 200px
+
 * My Emacs Configuration
 
 [[file:./emacs-logo/Emacs-Dragon.png]]
