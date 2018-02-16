@@ -1,6 +1,6 @@
 * My Emacs Configuration
 
-[[file:./emacs-logo/Emacs-Dragon.org]]
+[[file:./emacs-logo/Emacs-Dragon.png]]
 
 ** Reference
 
