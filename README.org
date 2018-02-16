@@ -1,8 +1,6 @@
-#+ATTR_HTML: width 200px
-
 * My Emacs Configuration
 
-[[file:./emacs-logo/Emacs-Dragon.png]]
+#+HTML: <p align="center"><img src="emacs-logo/Emacs-Dragon.png" width="200" /></p>
 
 ** Reference
 
