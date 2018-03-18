@@ -68,10 +68,12 @@
              t)
 
 ;; elpy and python
-(setenv "IPY_TEST_SIMPLE_PROMPT" "1")
+;(setenv "IPY_TEST_SIMPLE_PROMPT" "1")
 (setq python-shell-interpreter "/Users/Armstrong/anaconda/bin/python")
 ;      python-shell-interpreter-args "-i")
 (setq elpy-rpc-python-command "/Users/Armstrong/anaconda/bin/python")
+(setq python-shell-interpreter "/Users/Armstrong/anaconda/bin/ipython"
+      python-shell-interpreter-args "-i --simple-prompt")
 (add-hook 'python-mode-hook
   (lambda ()
     (setq python-indent 4)))
