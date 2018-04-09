@@ -94,6 +94,7 @@
 
 ;; Font setting
 (set-frame-font "Menlo 16" nil t)
+;;(set-frame-font "Source Code Pro 16" nil t)
 
 ;; Path Setting for SML, Racket, Homebrew
 ;; http://ergoemacs.org/emacs/emacs_env_var_paths.html
