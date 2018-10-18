@@ -78,6 +78,8 @@
   (lambda ()
     (setq python-indent 4)))
 
+;(with-eval-after-load "csv-mode" (csv-align-fields 1 1 0))
+
 ;; Company mode set key
 ;(with-eval-after-load 'company
 ;  (define-key company-active-map (kbd "C-h") 'delete-backward-char))
@@ -93,7 +95,7 @@
   (load custom-file))
 
 ;; Font setting
-(set-frame-font "Menlo 16" nil t)
+(set-frame-font "Menlo 18" nil t)
 ;;(set-frame-font "Source Code Pro 16" nil t)
 
 ;; Path Setting for SML, Racket, Homebrew
