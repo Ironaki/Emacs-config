@@ -55,6 +55,7 @@
   (require 'init-term-mouse))
 (require 'init-editing)
 (require 'init-keybinding)
+(require 'window-numbering)
 
 ;; Set C-h to backspace
 ;; Set C-d to help
