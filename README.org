@@ -4,7 +4,20 @@
 
 ** Reference
 
+*** Articles
+
 + [[https://github.com/redguardtoo/mastering-emacs-in-one-year-guide][Master Emacs in One Year]]
++ [[https://blog.aaronbieber.com/2015/07/05/a-gentle-introduction-to-emacs-configuration.html][A Gentle Introduction to Emacs Configuration]]
++ [[https://github.com/emacs-tw/awesome-emacs][Awesome Emacs]]
++ [[https://github.com/technomancy/emacs-starter-kit][emacs-starter-kit]]
+
+*** Configurations
+ 
++ [[https://github.com/syl20bnr/spacemacs][spacemacs]]
++ [[https://github.com/bbatsov/prelude][emacs_prelude]]
++ [[https://github.com/purcell/emacs.d][purcell]]
++ [[http://aaronbedra.com/emacs.d/][arron_bedra]]
++ [[http://pages.sachachua.com/.emacs.d/Sacha.html][sacha_chua]]
 
 ** Todo and Issues
 

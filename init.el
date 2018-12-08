@@ -5,8 +5,9 @@
 (global-linum-mode t) ;; line number
 (global-hl-line-mode t) ;; highlight current line
 (setq inhibit-startup-message t) ;; no startup msg  
-(tool-bar-mode -1) ;; no tool bar and scroll bar
+(tool-bar-mode -1) ;; no tool bar
 (scroll-bar-mode -1) ;; no scroll bar
+(menu-bar-mode -1) ;; no menu bar
 (setq-default indent-tabs-mode nil) ;; no tab indent
 
 (setq-default c-basic-offset 4)
